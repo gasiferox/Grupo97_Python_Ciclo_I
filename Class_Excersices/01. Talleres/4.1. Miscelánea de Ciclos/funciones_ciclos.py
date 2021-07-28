@@ -1,7 +1,6 @@
 """ Modulo Ciclos
     Funciones para practicas con ciclos
     Gustavo Romero Nocua
-    CC. 79942949
     Mayo 10-2021 """
 # Definición de Funciones
 #======================================================================

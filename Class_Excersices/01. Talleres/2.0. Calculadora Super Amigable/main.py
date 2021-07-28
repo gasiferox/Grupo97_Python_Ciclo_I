@@ -5,7 +5,7 @@
 
     Gustavo Romero Nocua
     gasifero@gmail.com
-    CC. 79942949
+    
     Junio 12-2021 """
 
 #---------------- Zona librerias------------

@@ -3,7 +3,6 @@
     y ubicaciones del barco
     Gustavo Romero Nocua
     gasifero@gmail.com
-    CC. 79942949
     Junio 18-2021 """
 
 import random

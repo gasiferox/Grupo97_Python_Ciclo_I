@@ -1,4 +1,4 @@
-#Método IDEAL
+# Método IDEAL
 
 ## Identificar
 * Cual es el problema?

@@ -3,7 +3,7 @@
 
     Gustavo Romero Nocua
     gasifero@gmail.com
-    CC. 79942949
+    
     Junio 24-2021
     """
 

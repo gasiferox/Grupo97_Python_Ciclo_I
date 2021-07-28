@@ -1,7 +1,6 @@
 """ Programa para apoyar al marinero Seijo
     Gustavo Romero Nocua
     gasifero@gmail.com
-    CC. 79942949
     Junio 18-2021 """
 
 import utilidades as util

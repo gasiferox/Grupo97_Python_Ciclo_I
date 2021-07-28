@@ -4,7 +4,6 @@
     # Funciones para presentar el programa como encabezado e imagen
     Gustavo Romero Nocua
     gasifero@gmail.com
-    CC. 79942949
     Junio 12-2021 """
 
 def parser_cadena(cadena_entrada)->float:

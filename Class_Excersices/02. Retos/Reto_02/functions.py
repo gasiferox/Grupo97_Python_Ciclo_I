@@ -4,7 +4,6 @@
 
     Gustavo Romero Nocua
     gasifero@gmail.com
-    CC. 79942949
     Junio 15-2021 """
 
 def generar_correo(nombre,apellido,agnio_nacimiento,opcion)->str:

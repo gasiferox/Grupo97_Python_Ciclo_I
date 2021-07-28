@@ -1,7 +1,6 @@
 """ Programa Apoyo multas#
     incorpora al modulo multas.py
     Gustavo Romero Nocua
-    CC.79942949
     gasifero@gmail.com
     Junio 11-2021 """
 

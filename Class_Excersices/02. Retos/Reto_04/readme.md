@@ -1,6 +1,6 @@
-#Reto Módulo 4
+# Reto Módulo 4
 
-##Objetivo
+## Objetivo
 Utilizar los conocimientos adquiridos durante las semanas para solucionar problemas.
 
 Implementar programas con expresiones lógicas y ciclos para resolver un problema que
@@ -21,7 +21,7 @@ en módulos propios.
 Aplicar la estrategia de dividir y conquistar para solucionar problemas
 
 
-##Descripción del Reto
+## Descripción del Reto
 
 El programa de Misión Tic te agradece por tu ayuda en el ataque de seguridad que ya ha
 sido solucionado gracias a tu ayuda verificando claves seguras, sin embargo, necesitamos
@@ -32,7 +32,7 @@ es por esto por lo que necesitamos tu ayuda.
 
 Tu puedes ánimo!
 
-##Aspectos para tener en cuenta
+## Aspectos para tener en cuenta
 
 Se ha logrado identificar que LAS CLAVE de 20 caracteres alfanuméricos es seguro, además se
 quiere introducir seguridad adicional por eso Min Tic quiere agregar 3 Caracteres alfanuméricos de
@@ -81,7 +81,7 @@ utilizarlo como base.
 
 Recuerda usar listas para resolver este ejercicio
 
-##¿Qué debes hacer?
+## ¿Qué debes hacer?
 1. Aplicar el proceso IDEAL completamente, es decir.
 
     a. Identificar el problema
@@ -108,7 +108,7 @@ Recuerda usar listas para resolver este ejercicio
 
     g. Invocando funciones de terceros
 
-##Fecha Modo de entrega
+## Fecha Modo de entrega
 
 Sábado 25 de junio de 2021 a las 23:59
 

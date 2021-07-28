@@ -2,7 +2,6 @@
     Funciones para el cálculo de multas
     de tránsito
     Gustsavo Romero Nocua
-    CC.79942949
     gasifero@gmail.com
     Junio 11-2021 """
 
