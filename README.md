@@ -2,4 +2,4 @@
 
 Work progress updated from the entire python course.
 
-___Helded by Universidad de Caldas ans sponsored by MinTIC___
+___Helded by Universidad de Caldas and sponsored by MinTIC___
